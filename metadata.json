@@ -1,0 +1,6 @@
+{
+  "name": "Visual Novel AI Chat",
+  "description": "An interactive AI chat with a character avatar that changes emotions and animates based on the conversation context, built with React and Gemini API.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
